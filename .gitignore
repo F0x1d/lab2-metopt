@@ -23,12 +23,6 @@ wheels/
 .installed.cfg
 *.egg
 
-# Results
-results/
-*.png
-*.pdf
-*_frames/
-
 # IDE
 .vscode/
 .idea/
